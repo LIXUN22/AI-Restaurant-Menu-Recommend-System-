@@ -30,6 +30,8 @@ This project is a terminal-based restaurant menu recommendation system that sugg
    ``` pip install random rich sqlite3```
 3. Run the Application
    ```python menu_system.py```
+## Output
+![image](https://github.com/user-attachments/assets/d4adf2e3-4491-43ce-8cd9-ec360669385c)
 
 ## Usage
 
